@@ -42,8 +42,11 @@
 ## :warning: Known Challenges & Issues 	:warning:	<br>
 
 :exclamation: The API is not large enough to paint a comprehensive picture, however it does provide a starting point. <br>
+<br>
 :exclamation: The data collected from the API is not clean and therefore took the most amount of time prior to analysis. <br>
+<br>
 :exclamation: The scope of the data is 75 years: 1935-2010; lacking data for the last decade won't be able to provide the most up to date trends. <br>
+<br>
 :exclamation: There is not comprehensive race information in any of the datasets. This would have provided key insights on representation over time. <br>
 
 
